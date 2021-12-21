@@ -1,0 +1,6 @@
+* [Template Matching - ScienceDirect](https://www.sciencedirect.com/topics/engineering/template-matching)
+* [Image Processing — Template Matching](https://medium.com/analytics-vidhya/image-processing-template-matching-aac0c1cbe2c0)
+* [Template Matching - Adaptive Vision](https://docs.adaptive-vision.com/4.7/studio/machine_vision_guide/TemplateMatching.html)
+* [Template matching | OpenCV con Python](https://omes-va.com/template-matching-opencv-python/)
+* [Template Matching - OpenCV](https://docs.opencv.org/4.x/d4/dc6/tutorial_py_template_matching.html)
+* [Guide To Template Matching With OpenCV: To Find Objects In Images](https://analyticsindiamag.com/guide-to-template-matching-with-opencv-to-find-objects-in-images/)
